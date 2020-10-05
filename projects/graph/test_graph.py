@@ -3,6 +3,8 @@ import sys
 import io
 from graph import Graph
 
+
+
 class Test(unittest.TestCase):
     def setUp(self):
         self.graph = Graph()
